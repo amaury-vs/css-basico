@@ -34,4 +34,15 @@ body
  {
    background-image: url('../img/corinthians.jpg');
    background-repeat: no-repeat;
+   background-size: contain;
+   height: 600px;
+   padding: 30px;
+   margin: 10px;    
+ }
+ .quadrado-02{
+   display: inline-block;
+   background-color: transparent;
+    margin: 2px;
+    padding: 3px;
+    padding-left: 10px;
  }
