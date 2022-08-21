@@ -1,0 +1,37 @@
+*
+{font-family: 'rajdhani' , sans-serif;}
+h1
+{ 
+    color: red;
+    background-color: black;
+}
+ ul, ol
+
+ {
+    color: blue;
+ }
+  .destaque1 
+  {
+    color: blueviolet;
+  }
+
+  .destaque2
+    {
+        color: black;
+    }
+     .rosa
+ {
+    color: brown
+ }
+ .destaque-300
+ {
+   font-weight: 300;
+ }
+ .destaque-500 {
+   font-weight: 500;
+ }
+body
+ {
+   background-image: url('../img/corinthians.jpg');
+   background-repeat: no-repeat;
+ }
